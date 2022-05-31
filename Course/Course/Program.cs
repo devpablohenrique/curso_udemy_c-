@@ -8,26 +8,27 @@ namespace Course
         static void Main(string[] args)
         {
 
-            int n1 = 3 + 4 * 2;
-            int n2 = (3 + 4) * 2;
-            int n3 = 17 % 3;
-            double n4 = 10.0 / 8;
+            string frase = Console.ReadLine();
+            string x = Console.ReadLine();
+            string y = Console.ReadLine();
+            string z = Console.ReadLine();
 
-            double a = 1.0, b = -3.0, c = -4.0;
+            string s = Console.ReadLine();
 
-            //double delta = b * b - 4.0 * a * c;
-            double delta = Math.Pow(b, 2.0) - 4.0 * a * c;
+            string[] v = s.Split(' ');
+            string a = v[0];
+            string b = v[1];
+            string c = v[2];
 
-            double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
-            double x2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
+            Console.WriteLine("Você digitou: ");
+            Console.WriteLine(frase);
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+            Console.WriteLine(z);
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(c);
 
-            Console.WriteLine(n1);
-            Console.WriteLine(n2);
-            Console.WriteLine(n3);
-            Console.WriteLine(n4);
-            Console.WriteLine(delta);
-            Console.WriteLine(x1);
-            Console.WriteLine(x2);
 
         }
     }
