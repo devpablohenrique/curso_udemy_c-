@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\bin\Debug\net5.0\Course.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\bin\Debug\net5.0\Course.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\bin\Debug\net5.0\Course.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\bin\Debug\net5.0\Course.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\refint\Course.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Course\Course\obj\Debug\net5.0\ref\Course.dll

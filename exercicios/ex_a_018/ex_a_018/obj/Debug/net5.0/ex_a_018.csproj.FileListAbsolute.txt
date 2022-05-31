@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\bin\Debug\net5.0\ex_a_018.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\bin\Debug\net5.0\ex_a_018.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\bin\Debug\net5.0\ex_a_018.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\bin\Debug\net5.0\ex_a_018.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\bin\Debug\net5.0\ex_a_018.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\bin\Debug\net5.0\ex_a_018.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\refint\ex_a_018.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ex_a_018.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ex_a_018\ex_a_018\obj\Debug\net5.0\ref\ex_a_018.dll

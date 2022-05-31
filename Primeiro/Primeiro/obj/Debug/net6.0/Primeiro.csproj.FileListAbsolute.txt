@@ -1,0 +1,15 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
