@@ -7,17 +7,14 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            int idade = 32;
-            double saldo = 10.35784;
-            string nome = "Maria";
 
-            //Console.WriteLine(saldo.ToString("F4", CultureInfo.InvariantCulture));
+            int a = 5;
+            int b = 2;
 
-            Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais.", nome, idade, saldo);
+            double resulta = (double) a / b;
 
-            Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais.");
+            Console.WriteLine(resulta);
 
-            Console.WriteLine(nome + " tem "+ idade + " anos e tem saldo igual a "+ saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais.");
         }
     }
 }
