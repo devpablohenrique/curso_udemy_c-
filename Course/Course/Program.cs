@@ -8,21 +8,15 @@ namespace Course
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Qual a hora atual? ");
-            int hora = int.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine());
+            double desconto = 0.0;
 
-            if (hora < 12)
+            if (preco > 100.00)
             {
-                Console.WriteLine("Bom dia!");
+                desconto = preco * 0.1;
             }
-            else if (hora < 18)
-            {
-                Console.WriteLine("Boa tarde!");
-            }
-            else
-            {
-                Console.WriteLine("Boa noite!");
-            }
+
+            Console.WriteLine(desconto);
         }
     }
 }
