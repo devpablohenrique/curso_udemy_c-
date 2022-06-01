@@ -6,7 +6,7 @@ namespace estruturaCondicional_ex001
     {
         static void Main(string[] args)
         {
-            Console.Write("Informe um numero inteiro para saber se é positivo ou negativo: ");
+            Console.Write("Informe um numero inteiro para saber se é negativo: ");
             int num = int.Parse(Console.ReadLine());
 
             if ( num < 0)
@@ -15,7 +15,7 @@ namespace estruturaCondicional_ex001
             }
             else
             {
-                Console.WriteLine($"O numero informado {num} é POSITIVO");
+                Console.WriteLine($"O numero informado {num} é NÃO NEGATIVO");
             }
         }
     }
