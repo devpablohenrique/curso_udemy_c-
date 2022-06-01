@@ -8,20 +8,21 @@ namespace Course
         static void Main(string[] args)
         {
 
-            bool c1 = 2 > 3 ||  4 != 5; // True
-            bool c2 = !(2 > 3) && 4 != 5; // True
+            Console.WriteLine("Qual a hora atual? ");
+            int hora = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(c1);
-            Console.WriteLine(c2);
-
-            Console.WriteLine("-------------------------------");
-
-            bool c3 = 10 < 5; // False
-            bool c4 = c1 || c2 && c3; // true
-
-            Console.WriteLine(c3);
-            Console.WriteLine(c4);
-
+            if (hora < 12)
+            {
+                Console.WriteLine("Bom dia!");
+            }
+            else if (hora < 18)
+            {
+                Console.WriteLine("Boa tarde!");
+            }
+            else
+            {
+                Console.WriteLine("Boa noite!");
+            }
         }
     }
 }
