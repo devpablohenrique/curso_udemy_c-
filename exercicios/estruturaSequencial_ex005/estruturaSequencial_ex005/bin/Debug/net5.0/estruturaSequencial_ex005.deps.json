@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "estruturaSequencial_ex005/1.0.0": {
+        "runtime": {
+          "estruturaSequencial_ex005.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estruturaSequencial_ex005/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
