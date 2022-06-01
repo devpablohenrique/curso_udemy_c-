@@ -15,7 +15,7 @@ namespace estruturaSequencial_ex006
 
             double pi = 3.14159;
 
-            double resultA = a * c / 2;
+            double resultA = (a * c) / 2;
             double resultB = pi * (Math.Pow(c, 2));
             double resultC = ((a + b) * c ) / 2;
             double resultD = Math.Pow(b, 2);

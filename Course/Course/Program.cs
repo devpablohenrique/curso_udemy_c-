@@ -8,25 +8,28 @@ namespace Course
         static void Main(string[] args)
         {
 
-            int n1 = int.Parse(Console.ReadLine());
-            char ch = char.Parse(Console.ReadLine());
-            double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            int a = 10;
+            bool c1 = a < 10;
+            bool c2 = a < 20;
+            bool c3 = a > 10;
+            bool c4 = a > 5;
 
-            string[] vet = Console.ReadLine().Split(' ');
-            string nome = vet[0];
-            char sexo = char.Parse(vet[1]);
-            int idade = int.Parse(vet[2]);
-            double altura = double.Parse(vet[3], CultureInfo.InvariantCulture);
+            Console.WriteLine(c1);
+            Console.WriteLine(c2);
+            Console.WriteLine(c3);
+            Console.WriteLine(c4);
+            Console.WriteLine("----------------------------------");
 
-            Console.WriteLine("Você digitou: ");
-            Console.WriteLine(n1);
-            Console.WriteLine(ch);
-            Console.WriteLine(n2.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine(nome);
-            Console.WriteLine(sexo);
-            Console.WriteLine(idade);
-            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
 
+            bool c5 = a <= 10;
+            bool c6 = a >= 10;
+            bool c7 = a == 10;
+            bool c8 = a != 10;
+
+            Console.WriteLine(c5);
+            Console.WriteLine(c6);
+            Console.WriteLine(c7);
+            Console.WriteLine(c8);
         }
     }
 }
