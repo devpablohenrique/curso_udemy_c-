@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\bin\Debug\net5.0\Primeiros_exercicios02.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\bin\Debug\net5.0\Primeiros_exercicios02.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\bin\Debug\net5.0\Primeiros_exercicios02.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\bin\Debug\net5.0\Primeiros_exercicios02.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\bin\Debug\net5.0\Primeiros_exercicios02.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\bin\Debug\net5.0\Primeiros_exercicios02.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\refint\Primeiros_exercicios02.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\Primeiros_exercicios02.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\Primeiros_exercicios02\Primeiros_exercicios02\obj\Debug\net5.0\ref\Primeiros_exercicios02.dll
