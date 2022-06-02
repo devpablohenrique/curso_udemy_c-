@@ -8,15 +8,33 @@ namespace Course
         static void Main(string[] args)
         {
 
-            double preco = double.Parse(Console.ReadLine());
-            double desconto = 0.0;
+            Console.WriteLine("Digite três números: ");
+            int n1 = int.Parse(Console.ReadLine());
+            int n2 = int.Parse(Console.ReadLine());
+            int n3 = int.Parse(Console.ReadLine());
 
-            if (preco > 100.00)
+            double resultado = Maior(n1, n2, n3);
+
+            Console.WriteLine("Maior = "+ resultado);
+        }
+
+        static int Maior(int a, int b, int c)
+        {
+            int m;
+            if (a > b && a > c)
             {
-                desconto = preco * 0.1;
+                m = a;
+            }
+            else if (b > c)
+            {
+                m = b;
+            }
+            else
+            {
+                m = c;
             }
 
-            Console.WriteLine(desconto);
+            return m;
         }
     }
 }
