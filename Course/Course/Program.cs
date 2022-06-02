@@ -7,34 +7,18 @@ namespace Course
     {
         static void Main(string[] args)
         {
+            Console.Write("Digite um número: ");
+            double x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Digite três números: ");
-            int n1 = int.Parse(Console.ReadLine());
-            int n2 = int.Parse(Console.ReadLine());
-            int n3 = int.Parse(Console.ReadLine());
-
-            double resultado = Maior(n1, n2, n3);
-
-            Console.WriteLine("Maior = "+ resultado);
-        }
-
-        static int Maior(int a, int b, int c)
-        {
-            int m;
-            if (a > b && a > c)
+            while ( x >= 0)
             {
-                m = a;
+                double raiz = Math.Sqrt(x);
+                Console.WriteLine(raiz.ToString("F3", CultureInfo.InvariantCulture));
+                Console.Write("Digite outro número: ");
+                x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
-            else if (b > c)
-            {
-                m = b;
-            }
-            else
-            {
-                m = c;
-            }
-
-            return m;
+            Console.WriteLine("Número negativo!");
+            
         }
     }
 }
