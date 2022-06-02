@@ -20,7 +20,6 @@ namespace estruturaRepeticao_ex002
                 resultado = Quadran(x, y);
 
                 Console.WriteLine(resultado);
-
             }
         }
 
