@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\bin\Debug\net5.0\estruturaRepetitivaFor_ex004.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\bin\Debug\net5.0\estruturaRepetitivaFor_ex004.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\bin\Debug\net5.0\estruturaRepetitivaFor_ex004.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\bin\Debug\net5.0\estruturaRepetitivaFor_ex004.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\bin\Debug\net5.0\estruturaRepetitivaFor_ex004.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\bin\Debug\net5.0\estruturaRepetitivaFor_ex004.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\refint\estruturaRepetitivaFor_ex004.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\estruturaRepetitivaFor_ex004.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\estruturaRepetitivaFor_ex004\estruturaRepetitivaFor_ex004\obj\Debug\net5.0\ref\estruturaRepetitivaFor_ex004.dll
