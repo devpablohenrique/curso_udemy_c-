@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Primeiros_exercicios01/1.0.0": {
+        "runtime": {
+          "Primeiros_exercicios01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primeiros_exercicios01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
