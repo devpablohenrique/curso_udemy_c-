@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExClasseAtribMetod002", "ExClasseAtribMetod002\ExClasseAtribMetod002.csproj", "{70B30B34-5885-4E48-98DB-BFCCAF55AEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B30B34-5885-4E48-98DB-BFCCAF55AEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B30B34-5885-4E48-98DB-BFCCAF55AEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B30B34-5885-4E48-98DB-BFCCAF55AEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B30B34-5885-4E48-98DB-BFCCAF55AEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CEFAAE-2C10-40F6-A8D5-8E2AB6C310EB}
+	EndGlobalSection
+EndGlobal

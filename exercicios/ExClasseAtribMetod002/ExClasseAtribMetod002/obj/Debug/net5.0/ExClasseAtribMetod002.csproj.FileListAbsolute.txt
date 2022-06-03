@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\bin\Debug\net5.0\ExClasseAtribMetod002.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\bin\Debug\net5.0\ExClasseAtribMetod002.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\bin\Debug\net5.0\ExClasseAtribMetod002.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\bin\Debug\net5.0\ExClasseAtribMetod002.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\bin\Debug\net5.0\ExClasseAtribMetod002.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\bin\Debug\net5.0\ExClasseAtribMetod002.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\refint\ExClasseAtribMetod002.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ExClasseAtribMetod002.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExClasseAtribMetod002\ExClasseAtribMetod002\obj\Debug\net5.0\ref\ExClasseAtribMetod002.dll
