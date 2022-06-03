@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\bin\Debug\net5.0\ExercicioDeFixacao_static.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\bin\Debug\net5.0\ExercicioDeFixacao_static.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\bin\Debug\net5.0\ExercicioDeFixacao_static.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\bin\Debug\net5.0\ExercicioDeFixacao_static.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\bin\Debug\net5.0\ExercicioDeFixacao_static.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\bin\Debug\net5.0\ExercicioDeFixacao_static.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\refint\ExercicioDeFixacao_static.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ExercicioDeFixacao_static.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioDeFixacao_static\ExercicioDeFixacao_static\obj\Debug\net5.0\ref\ExercicioDeFixacao_static.dll
