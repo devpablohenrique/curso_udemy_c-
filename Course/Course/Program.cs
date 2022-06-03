@@ -5,37 +5,30 @@ namespace Course
 {
     internal class Program
     {
+
+        static double Pi = 3.14;
+
         static void Main(string[] args)
         {
-            Produto p = new Produto();
+            Console.Write("Entre o valor do raio: ");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Entre os dados do produto: ");
-            Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
-            Console.Write("Preco: ");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            double circ = Circuferencia(raio);
+            double volume = Volume(raio);
 
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: "+ p);
-            Console.WriteLine();
+            Console.WriteLine("Circuferencia : "+ circ.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Volume: "+ volume.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor de PI: "+ Pi.ToString("F2", CultureInfo.InvariantCulture));
+        }
 
-            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-            int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qte);
+        static double Circuferencia(double r)
+        {
+            return 2.0 * Pi * r;
+        }
 
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: "+ p);
-
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser removido do estoque: ");
-            qte = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(qte);
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
-
+        static double Volume(double r)
+        {
+            return 4.0 / 3.0 * Pi * Math.Pow(r, 3);
         }
     }
 }
