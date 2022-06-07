@@ -10,10 +10,10 @@ namespace Course
 
             Produto p = new Produto("TV", 500.00, 10);
 
-            p.SetNome("T");
+            p.Nome = "T";
 
-            Console.WriteLine(p.GetNome());
-            Console.WriteLine(p.GetPreco());
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
         }
     }
 }
