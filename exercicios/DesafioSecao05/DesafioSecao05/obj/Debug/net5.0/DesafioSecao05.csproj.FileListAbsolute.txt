@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\bin\Debug\net5.0\DesafioSecao05.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\bin\Debug\net5.0\DesafioSecao05.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\bin\Debug\net5.0\DesafioSecao05.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\bin\Debug\net5.0\DesafioSecao05.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\bin\Debug\net5.0\DesafioSecao05.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\bin\Debug\net5.0\DesafioSecao05.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\refint\DesafioSecao05.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\DesafioSecao05.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\DesafioSecao05\DesafioSecao05\obj\Debug\net5.0\ref\DesafioSecao05.dll
