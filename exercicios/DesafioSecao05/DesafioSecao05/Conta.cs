@@ -6,10 +6,9 @@ namespace DesafioSecao05
     {
         private double Taxa = 5.00;
 
-        public int NumConta { get; private set; }
-        public string NomeCliente { get; private set; }
-        public double Saldo { get; set; }
-
+        public string NomeCliente { get; set; }
+        public int NumConta { get; private set; } 
+        public double Saldo { get; private set; }
 
         public Conta()
         {
