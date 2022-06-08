@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\bin\Debug\net5.0\ExercicioFixação(vetores).exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\bin\Debug\net5.0\ExercicioFixação(vetores).deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\bin\Debug\net5.0\ExercicioFixação(vetores).runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\bin\Debug\net5.0\ExercicioFixação(vetores).runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\bin\Debug\net5.0\ExercicioFixação(vetores).dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\bin\Debug\net5.0\ExercicioFixação(vetores).pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\refint\ExercicioFixação(vetores).dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ExercicioFixação(vetores).genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixação(vetores)\ExercicioFixação(vetores)\obj\Debug\net5.0\ref\ExercicioFixação(vetores).dll
