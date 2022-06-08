@@ -8,14 +8,15 @@ namespace Course
         static void Main(string[] args)
         {
 
-            Point p;
-            p.X = 10;
-            p.Y = 20;
+            double? x = null;
+            double? y = 10;
 
-            Console.WriteLine(p);
+            double a = x ?? 5;
+            double b = y ?? 5;
 
-            p = new Point();
-            Console.WriteLine(p);
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            
         }
     }
 }
