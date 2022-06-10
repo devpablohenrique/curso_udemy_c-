@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\refint\ExercicioFixacaoListas.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ref\ExercicioFixacaoListas.dll
