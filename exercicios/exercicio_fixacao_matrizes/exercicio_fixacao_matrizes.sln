@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_fixacao_matrizes", "exercicio_fixacao_matrizes\exercicio_fixacao_matrizes.csproj", "{A5386CB2-CB3C-404D-8FE4-A628F4E1940F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5386CB2-CB3C-404D-8FE4-A628F4E1940F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5386CB2-CB3C-404D-8FE4-A628F4E1940F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5386CB2-CB3C-404D-8FE4-A628F4E1940F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5386CB2-CB3C-404D-8FE4-A628F4E1940F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18BE96F7-4D2A-403E-8C7C-6A7F9AB22891}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\bin\Debug\net5.0\exercicio_fixacao_matrizes.exe
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\bin\Debug\net5.0\exercicio_fixacao_matrizes.deps.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\bin\Debug\net5.0\exercicio_fixacao_matrizes.runtimeconfig.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\bin\Debug\net5.0\exercicio_fixacao_matrizes.runtimeconfig.dev.json
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\bin\Debug\net5.0\exercicio_fixacao_matrizes.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\bin\Debug\net5.0\exercicio_fixacao_matrizes.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.csproj.AssemblyReference.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.AssemblyInfoInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.AssemblyInfo.cs
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.csproj.CoreCompileInputs.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\refint\exercicio_fixacao_matrizes.dll
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.pdb
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\exercicio_fixacao_matrizes.genruntimeconfig.cache
+C:\Aulas\008-C#_curso\udemy\ws-vs2022\exercicios\exercicio_fixacao_matrizes\exercicio_fixacao_matrizes\obj\Debug\net5.0\ref\exercicio_fixacao_matrizes.dll
